@@ -23,7 +23,7 @@
 
 ## 😄 Cool Stats
 
-![sannasi GitHub stats](https://github-readme-stats.vercel.app/api?username=sannasi&show_icons=true&theme=radical)
+![sannasi GitHub status](https://github-readme-stats.vercel.app/api?username=sannasichottu&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sannasi&theme=radical)
 
